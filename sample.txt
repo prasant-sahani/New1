@@ -6,5 +6,4 @@ i am good
 ok
 hmm
 ffsf
-c
 nacm
